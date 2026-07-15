@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreshSense AI
 
 A neural network project that predicts whether a fruit or vegetable is
@@ -92,3 +93,7 @@ From the sidebar:
   standardization) lives in `utils/data_utils.py` and is shared by the
   training and prediction pages, so a saved model and new inference rows
   are always encoded the same way.
+=======
+# FreshSense-AI
+Neural network that predicts fruit &amp; vegetable freshness (Fresh / Consume Soon / Spoiled) from storage conditions and quality indicators — synthetic dataset generation, a from-scratch NumPy neural network, and a Streamlit app to explore, train, and predict.
+>>>>>>> 6c97b26052c9fdc0e22e13197d63e35bb5976149
